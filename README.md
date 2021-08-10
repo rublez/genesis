@@ -1,1 +1,1 @@
-# genesis.io
+# genesis.global
